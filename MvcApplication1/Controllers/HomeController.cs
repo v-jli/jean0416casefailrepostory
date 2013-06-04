@@ -10,7 +10,7 @@ namespace MvcApplication1.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "jean well done.0603fail";
+            ViewBag.Message = "jean well done.0604fail01";
 
             return View();
         }
